@@ -1,0 +1,19 @@
+{
+  "name": "demo-pin-app",
+  "version": "1.0.0",
+  "description": "Challenge Backend Developer NodeJS - PinApp",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Natalio Margherit",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^5.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}

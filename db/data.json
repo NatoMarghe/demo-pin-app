@@ -1,0 +1,30 @@
+{
+    "clientes": [
+        {
+            "apellido": "PEREZ",
+            "nombre": "JUAN",
+            "edad": 5,
+            "fecha_nacimiento": "06/05/2019" 
+        },{
+            "apellido": "LOPEZ",
+            "nombre": "JOSE",
+            "edad": 15,
+            "fecha_nacimiento": "03/15/2009" 
+        },{
+            "apellido": "PRUN",
+            "nombre": "MARTIN",
+            "edad": 12,
+            "fecha_nacimiento": "02/22/2012" 
+        },{
+            "apellido": "GALLO",
+            "nombre": "ANDRES",
+            "edad": 18,
+            "fecha_nacimiento": "10/12/2005" 
+        },{
+            "apellido": "CHANTA",
+            "nombre": "IVAN",
+            "edad": 28,
+            "fecha_nacimiento": "01/25/1995" 
+        }
+    ]
+}
